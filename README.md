@@ -1,0 +1,2 @@
+# CasinoHubDocumentation
+CasinoHub platform documentation
